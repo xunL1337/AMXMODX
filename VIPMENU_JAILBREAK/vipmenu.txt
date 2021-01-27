@@ -1,0 +1,139 @@
+﻿[ru]
+MAIN_MENU_TITLE = VIP Menu\d v.\r3.\d
+ITEM_1 = Meniu Arme/Knife
+ITEM_2 = Meniu VIP Detinuti
+ITEM_2_2 = Meniu VIP Detinuti\r(Doar Prizonierii au acces)
+ITEM_3 = Reinvie
+ITEM_3_3 = Renvie(Disponibil peste %i runde)
+ITEM_3_3_3 = Reinvie(Nu merge :D))
+ITEM_4 = MedKit [ Hp si Armura ]
+ITEM_4_4 = MedKit [ Hp si Armura ](Disponibil peste %i runde)
+ITEM_4_4_4 = MedKit [ Hp si Armura ](Nu merge)
+ITEM_5 = 16000$ Dolari
+ITEM_5_5 = 16000$ Dolari(Disponibil peste %i runde)
+ITEM_5_5_5 = 16000$ Dolari(Nu merge :P))
+ITEM_6 = Fumeaza Etnobotanice
+ITEM_7 = Set Grenazi
+ITEM_8 = Scut 
+ITEM_9 = Viteza Mare
+ITEM_10 = Gravitatie Mica
+ITEM_11 = Gloante [Gloante Full]
+
+MENU_WEAPON_TITLE = Arme Speciale:
+WEAPON_ITEM_1 = Arme
+WEAPON_ITEM_1_1 = Arme(Mai poti lua o arma peste %i Runde)
+WEAPON_ITEM_1_2 = Arme Speciale\r(\dNu este permis\r)
+WEAPON_ITEM_1_3 = Arme Speciale\r(\dDisponibil numai pentru Politisti\r)
+WEAPON_ITEM_2 = Cuțite
+WEAPON_ITEM_2_1 = Cuțit(Disponibil în runda următoare)
+
+MENU_KNIFE_TITLE = Cutite Speciale:
+KNIFE_ITEM_1 = Cutit al Inghetului
+KNIFE_ITEM_2 = Cutit al Mortii
+KNIFE_ITEM_3 = Baros de Spart Capuri
+KNIFE_ITEM_4 = Cutit de Ninja
+KNIFE_ITEM_5 = Cutit Ghearele Dragonului
+
+MENU_CPES_TITLE = Alege armele speciale:
+CPES_ITEM_1 = Arma 1
+CPES_ITEM_2 = Arma 2
+CPES_ITEM_3 = Arma 3
+
+MENU_BEG_TITLE = Alege o Putere:
+BEG_ITEM_1 = Evadeaza
+BEG_ITEM_1_1 = Evadeaza(Mai poti Evada peste %i Runde)
+BEG_ITEM_2 = Stinge Lumina
+BEG_ITEM_2_1 = Stinge Lumina(Mai poti stinge Lumina peste %i Runde)
+BEG_ITEM_3 = Pune o CapCana
+BEG_ITEM_3_1 = Pune o CapCana(Mai poti pune o CapCana peste %i Runde)
+
+YOUR_DEAD = !g[Detinuti] !yEsti !teamMort !y și nu poti utiliza meniul de VIP!
+YOUR_ALIVE = !g[Detinuti] !yEsti !teamIn Viata !y De ce ai vrea sa Invii?
+NO_ASSES = !g[Detinuti] !y !teamTu!y nu ai acces la aceasta Comanda!
+MENU_SPEC_BLOCK = !g[Detinuti] !yDrepturi de acces insuficiente !teamla armele speciale!
+WEAPONS =
+BEG =  !g[Detinuti] !yPentru a evada loveste usa cu pumnul.
+BEG_2 =  !g[Detinuti] !yAcum poti fugi, politistii au orbit!
+BEG_3 =  !g[Detinuti] !yAcum atrage un Politist in CapCana!
+LIGHT_NAME = Prizonierul %s încearca sa Scape!
+CT_TRAP = !g[Detinuti] !yAi fost prins într-o capcană ... Vei scapa in 10 Secunde
+CT_TRAP_OFF = !g[Detinuti] !yAi scapat din capcana!
+ALIVE = !g[Detinuti] !yAi Primit!teamRevive!
+HP_AR = !g[Detinuti] !yAi Primit !teamMedKit.
+MONEY = !g[Detinuti] !yAi Primit !team16000$
+NARK = !g[Detinuti] !yAi luat Etnobotanice ("_")
+GRENADE = !g[Detinuti] !yAi Primit !teamSet de Grenazi.
+SPECH = !g[Detinuti] !yAi Primit !teamScut.
+GRAVITY = !g[Detinuti] !yAi Primit !teamGravitatie!
+SPEED = !g[Detinuti] !yAi Primit !teamViteza!
+AMMO = !g[Detinuti] !yAi Primit !teamGloante.
+
+[en]
+MAIN_MENU_TITLE = VIP Menu\d v.\r3.\d
+ITEM_1 = Meniu Arme/Knife
+ITEM_2 = Meniu VIP Detinuti
+ITEM_2_2 = Meniu VIP Detinuti\r(Doar Prizonierii au acces)
+ITEM_3 = Reinvie
+ITEM_3_3 = Renvie(Disponibil peste %i runde)
+ITEM_3_3_3 = Reinvie(Nu merge :D))
+ITEM_4 = MedKit [ Hp si Armura ]
+ITEM_4_4 = MedKit [ Hp si Armura ](Disponibil peste %i runde)
+ITEM_4_4_4 = MedKit [ Hp si Armura ](Nu merge)
+ITEM_5 = 16000$ Dolari
+ITEM_5_5 = 16000$ Dolari(Disponibil peste %i runde)
+ITEM_5_5_5 = 16000$ Dolari(Nu merge :P))
+ITEM_6 = Fumeaza Etnobotanice
+ITEM_7 = Set Grenazi
+ITEM_8 = Scut 
+ITEM_9 = Viteza Mare
+ITEM_10 = Gravitatie Mica
+ITEM_11 = Gloante [Gloante Full]
+
+MENU_WEAPON_TITLE = Arme Speciale:
+WEAPON_ITEM_1 = Arme
+WEAPON_ITEM_1_1 = Arme(Mai poti lua o arma peste %i Runde)
+WEAPON_ITEM_1_2 = Arme Speciale\r(\dNu este permis\r)
+WEAPON_ITEM_1_3 = Arme Speciale\r(\dDisponibil numai pentru Politisti\r)
+WEAPON_ITEM_2 = Cuțite
+WEAPON_ITEM_2_1 = Cuțit(Disponibil în runda următoare)
+
+MENU_KNIFE_TITLE = Cutite Speciale:
+KNIFE_ITEM_1 = Cutit al Inghetului
+KNIFE_ITEM_2 = Cutit al Mortii
+KNIFE_ITEM_3 = Baros de Spart Capuri
+KNIFE_ITEM_4 = Cutit de Ninja
+KNIFE_ITEM_5 = Cutit Ghearele Dragonului
+
+MENU_CPES_TITLE = Alege armele speciale:
+CPES_ITEM_1 = Arma 1
+CPES_ITEM_2 = Arma 2
+CPES_ITEM_3 = Arma 3
+
+MENU_BEG_TITLE = Alege o Putere:
+BEG_ITEM_1 = Evadeaza
+BEG_ITEM_1_1 = Evadeaza(Mai poti Evada peste %i Runde)
+BEG_ITEM_2 = Stinge Lumina
+BEG_ITEM_2_1 = Stinge Lumina(Mai poti stinge Lumina peste %i Runde)
+BEG_ITEM_3 = Pune o CapCana
+BEG_ITEM_3_1 = Pune o CapCana(Mai poti pune o CapCana peste %i Runde)
+
+YOUR_DEAD = !g[Detinuti] !yEsti !teamMort !y și nu poti utiliza meniul de VIP!
+YOUR_ALIVE = !g[Detinuti] !yEsti !teamIn Viata !y De ce ai vrea sa Invii?
+NO_ASSES = !g[Detinuti] !y !teamTu!y nu ai acces la aceasta Comanda!
+MENU_SPEC_BLOCK = !g[Detinuti] !yDrepturi de acces insuficiente !teamla armele speciale!
+WEAPONS =
+BEG =  !g[Detinuti] !yPentru a evada loveste usa cu pumnul.
+BEG_2 =  !g[Detinuti] !yAcum poti fugi, politistii au orbit!
+BEG_3 =  !g[Detinuti] !yAcum atrage un Politist in CapCana!
+LIGHT_NAME = Prizonierul %s încearca sa Scape!
+CT_TRAP = !g[Detinuti] !yAi fost prins într-o capcană ... Vei scapa in 10 Secunde
+CT_TRAP_OFF = !g[Detinuti] !yAi scapat din capcana!
+ALIVE = !g[Detinuti] !yAi Primit!teamRevive!
+HP_AR = !g[Detinuti] !yAi Primit !teamMedKit.
+MONEY = !g[Detinuti] !yAi Primit !team16000$
+NARK = !g[Detinuti] !yAi luat Etnobotanice ("_")
+GRENADE = !g[Detinuti] !yAi Primit !teamSet de Grenazi.
+SPECH = !g[Detinuti] !yAi Primit !teamScut.
+GRAVITY = !g[Detinuti] !yAi Primit !teamGravitatie!
+SPEED = !g[Detinuti] !yAi Primit !teamViteza!
+AMMO = !g[Detinuti] !yAi Primit !teamGloante.
